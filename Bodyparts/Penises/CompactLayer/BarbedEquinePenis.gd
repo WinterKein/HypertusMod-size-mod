@@ -14,7 +14,7 @@ func getLewdAdjective():
 	return RNG.pick(["flared", "equine", "horse", "barbed"])
 
 func getDoll3DScene():
-	return "res://Modules/BarbedEquinePenis/Bodyparts/BarbedEquinePenis.tscn"
+	return "res://Modules/WintersEquineCollection/EquinePenisKnot/Penis/EquinePenisBarb.tscn"
 
 func getPenisScale():
 	return max(0.1 + (lengthCM - 5.0) / 21.0, 0.3)
