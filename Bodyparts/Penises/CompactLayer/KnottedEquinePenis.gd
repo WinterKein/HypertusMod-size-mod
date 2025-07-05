@@ -17,7 +17,7 @@ func getLewdAdjective():
 	return RNG.pick(["flared", "horse-shaped", "horse", "knotted"])
 
 func getDoll3DScene():
-	return "res://Modules/Knotted Horsecock/Bodyparts/KnottedEquinePenis.tscn"
+	return "res://Modules/WintersEquineCollection/EquinePenisKnot/Penis/EquinePenisKnot.tscn"
 
 func getPenisScale():
 	return max(0.1 + (lengthCM - 5.0) / 21.0, 0.3)
