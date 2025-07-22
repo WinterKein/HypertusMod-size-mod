@@ -78,5 +78,11 @@
             "res://Modules/Z_Hypertus/Bodyparts/Penises/CompactLayer/SpinedDragonPenis.gd"
         ],
         "skinPathDir": "res://Modules/Z_Hypertus/Partskins/SpinedDragonPenis"
-    }
+    },
+    "Ace's Aviary Addon Bodyparts": {
+        "moduleid": "AviaryAddon",
+        "author": "Averageace & WinterEira",
+        "files": [
+            "res://Modules/Z_Hypertus/Bodyparts/Penises/CompactLayer/BirdPenis.gd",
+            "res://Modules/Z_Hypertus/Bodyparts/Penises/CompactLayer/BirdPenis2.gd"
 }
